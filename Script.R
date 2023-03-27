@@ -1,5 +1,3 @@
-#Formação Inteligência Artificial e Machine Learning - Fernando Amaral
-
 jogotictac <- function(jogada)
 {
 
